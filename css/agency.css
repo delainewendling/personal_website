@@ -763,3 +763,11 @@ body {
   height: 60px;
   width: 100px;
 }
+.justified {
+  text-align: justify;
+}
+.portfolioImg {
+  display: block;
+  height: 240px;
+  margin: 0 auto;
+}
