@@ -838,12 +838,9 @@ p {
 }
 @media (max-width: 670px) {
   .contactMe {
-    text-align: center;
     width: 80%;
-    margin-left: 25%;
-    margin-top: 10px;
-    padding: 10px;
-    color: white;
-    background-color: #222;
   }
+}
+.mobileImg {
+  height: 550px;
 }
